@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\Zoraida\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\Zoraida\\.nuget\\packages"
+    ]
+  }
+}

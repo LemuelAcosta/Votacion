@@ -1,0 +1,13 @@
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\bin\Debug\netcoreapp3.1\Votaciones.exe
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\bin\Debug\netcoreapp3.1\Votaciones.deps.json
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\bin\Debug\netcoreapp3.1\Votaciones.runtimeconfig.json
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\bin\Debug\netcoreapp3.1\Votaciones.runtimeconfig.dev.json
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\bin\Debug\netcoreapp3.1\Votaciones.dll
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\bin\Debug\netcoreapp3.1\Votaciones.pdb
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.csprojAssemblyReference.cache
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.csproj.CoreCompileInputs.cache
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.AssemblyInfoInputs.cache
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.AssemblyInfo.cs
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.dll
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.pdb
+C:\Users\Zoraida\source\repos\Votaciones\Votaciones\obj\Debug\netcoreapp3.1\Votaciones.genruntimeconfig.cache
